@@ -53,6 +53,18 @@ ref: [https://nus.comp.emeritus.org/generative-ai-fundamentals-to-advanced-techn
 - Object Oriented Programming
 - Quiz and Assignment
 
+### Week 2
+
+- Introduction to Supervised, Unsupervised and Reinforcement Learning
+- K-Means
+  - Feature Selection
+  - Cleaning Data
+  - Normalization - Min-Max Scaler, Normal Scaler
+  - Elbow and Silhouette methods to find optimum K
+  - Training and plotting results
+  - Interpreting results
+- Quiz and Assignment
+
 
 
 
