@@ -9,6 +9,7 @@ ref: [https://nus.comp.emeritus.org/generative-ai-fundamentals-to-advanced-techn
 
 1. Anaconda (Install from [https://www.anaconda.com/download](https://www.anaconda.com/download))
 2. Jupyter Notebook (can be installed from Anaconda Navigator or by running the install command in Anaconda Prompt)
+3. Separate environment for TensorFlow setup and Keras-Jax setup
 
 **Steps:**
 
@@ -63,6 +64,21 @@ ref: [https://nus.comp.emeritus.org/generative-ai-fundamentals-to-advanced-techn
   - Elbow and Silhouette methods to find optimum K
   - Training and plotting results
   - Interpreting results
+- Quiz and Assignment
+
+### Week 3
+
+- Introduction to Deep Learning - Artificial Neural Networks (ANN)
+- Introduction to Deep Learning - Deep Convolutional Neural Networks (DCNN)
+- Building ANN and DCNN models for Regression, Classification and Image Classification problems
+  - Build the model architecture
+  - Split Data to Train/Val/Test
+  - Train Model
+  - Evaluation Metrics
+- Hyperparameter Tuning Technique - Manual Grid Search
+- Training Optimization Techniques
+  - Regularization Techniques: Dropout, L2 Regularization
+  - Callbacks: EarlyStopping, ModelCheckpoint, ReduceLROnPlateau
 - Quiz and Assignment
 
 
