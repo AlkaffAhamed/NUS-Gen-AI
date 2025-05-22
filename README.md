@@ -100,6 +100,28 @@ ref: [https://nus.comp.emeritus.org/generative-ai-fundamentals-to-advanced-techn
   - Sampling with Temperature
 - Quiz and Assignment
 
+### Week 5
+
+- Introducing BERT and GPT Architectures
+- 3 Main Types
+  - Encoder only: BERT
+  - Decoder only (Autoregressive): GPT
+  - Encoder and Decoder: T5
+- BERT
+  - Encoder only model
+  - Excels at contextual understanding
+  - Mainly trained with Masked Language Modeling (MLM) and Next Sentence Prediction (NSP) Techniques (and other variants)
+  - Applications: Sentiment Analysis, Named Entity Recognition, Text Classification
+  - Limitations: Low Context Window, No Generation Capabilities
+- GPT
+  - Decoder only model (Autoregression Model)
+  - Generates Texts by masking future words
+  - Mainly trained with Causal Language Modelling (CLM)
+- GPT and Reinforcement Learning
+- GPT with RAG
+- Encoder-Decoder Models: BARD, T5, ...
+- Quiz and Assignment
+
 
 
 
