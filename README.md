@@ -81,6 +81,27 @@ ref: [https://nus.comp.emeritus.org/generative-ai-fundamentals-to-advanced-techn
   - Callbacks: EarlyStopping, ModelCheckpoint, ReduceLROnPlateau
 - Quiz and Assignment
 
+### Week 4
+
+- Introducing NLP 
+  - Text to Vector: Bag of Words
+  - Text to Vector: Word Embeddings
+  - RNN - LSTM
+  - Limitations of LSTM - Sequential and cannot be processed in parallel
+- Introducing Attention Mechanism 
+  - Query (Q), Key (K), Value (V)
+- Multi-Head Attentions vs Single Attention
+- Encoder and Decoder Architectures
+- Decoder Techniques for Text Generation: 
+  - Greedy Search
+  - Top-K Sampling
+  - Top-p (Nucleus) Sampling
+  - Beam Search
+  - Sampling with Temperature
+- Quiz and Assignment
+
+
+
 
 
 
