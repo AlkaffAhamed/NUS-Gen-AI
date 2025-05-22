@@ -122,6 +122,29 @@ ref: [https://nus.comp.emeritus.org/generative-ai-fundamentals-to-advanced-techn
 - Encoder-Decoder Models: BARD, T5, ...
 - Quiz and Assignment
 
+### Week 6
+
+- Introducing Reinforcement Learning
+- Agentic AI Task Workflow: Environment, State, Action, Reward, Policy, Q-Value
+- Unique features of RL: 
+  - Delayed Consequences
+  - Exploration
+- Markov Decision Processes (MDPs), 4 Bellman Equations Optimal  Policy
+- Model-Based Learning: Dynamic Programming
+- Model-Free Learning 
+  - Monte Carlo 
+  - Temporal Difference Learning
+- Q-Learning and Deep Q-Networks (DQN)
+- Policy Gradient Techniques
+  - Baseline b
+  - Temporal Structure
+  - KL Divergence Trust Region
+- Actor Critic and Proximal Policy Optimisation (PPO)
+- Alignment Problem
+  - Reinforcement Learning from Human Feedback (RLHF)
+  - Direct Preference Optimisation (DPO)
+- Quiz and Assignment
+
 
 
 
