@@ -145,7 +145,33 @@ ref: [https://nus.comp.emeritus.org/generative-ai-fundamentals-to-advanced-techn
   - Direct Preference Optimisation (DPO)
 - Quiz and Assignment
 
+### Week 7
 
+- Autoencoders and VAEs
+  - Encoder
+  - Decoder
+  - Latent Representation
+  - Sampling and Reparameterization Trick (VAE)
+  - Other variants of VAEs: 
+    - Disentangled Variational Autoencoders 
+    - Adversarial Autoencoders
+    - Variational Recurrent Autoencoders
+    - Hierarchical Variational Autoencoders
+- GAN's
+  - Generator
+  - Discriminator
+  - Problem of highly unstable training, vanishing gradients and model can collapse
+  - Wasserstein GAN
+  - Other variants of GANs: 
+    - CycleGAN
+    - StyleGAN
+    - DCGAN
+    - BigGAN
+    - SRGAN
+    - VAE-GAN
+- Training VAEs and GANs
+- Real Life Usage of GANs
+- Quiz and Assignment
 
 
 
