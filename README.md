@@ -195,11 +195,24 @@ ref: [https://nus.comp.emeritus.org/generative-ai-fundamentals-to-advanced-techn
   - Drawbacks of ViT: Required huge dataset and very resource intensive training
 - Contrastive Language-Image Pre-Training (CLIP)
   - Architecture
-  - Usage in Dall-e and Stable Diffusion
-- Dall-e 2 vs GLIDE
+  - Usage in DALL-E and Stable Diffusion
+- DALL-E 2 vs GLIDE
 - Quiz and Assignment
 
+### Week 10
 
+- Multi-modal AI Introduction
+- DALL-E 3 and Stable Diffusion 3 Comparison
+  - DALL-E 3 better at natural language prompt with less context than Stable Diffusion 3
+  - Stable Diffusion is open-sourced, highly customizable than DALL-E
+  - Choice is based on use case
+- API Integration
+- Prompt Engineering for Image Generation
+  - Detailed prompts
+  - Background Description
+  - Technical Details (e.g. camera settings, art medium etc. )
+  - Negative Prompts
+- 3 Assignments
 
 
 
