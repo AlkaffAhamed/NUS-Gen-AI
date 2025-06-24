@@ -173,9 +173,20 @@ ref: [https://nus.comp.emeritus.org/generative-ai-fundamentals-to-advanced-techn
 - Real Life Usage of GANs
 - Quiz and Assignment
 
+### Week 8
 
-
-
+- Diffusion Models Overview
+  - Forward and Reverse Diffusion Process
+  - U-Net Denoising Model
+  - Training a Diffusion Model
+  - Using a Diffusion Model for inference 
+- U-Net Architecture
+  - Downblock and Upblock
+  - Residual Connections
+    - Solves Vanishing Gradient and Degradation problems
+  - Advantages of U-Net Models over VAE
+- Comparing VAEs, GAN's and Diffusion Models
+- Quiz and Assignment
 
 
 
