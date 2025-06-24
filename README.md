@@ -188,5 +188,20 @@ ref: [https://nus.comp.emeritus.org/generative-ai-fundamentals-to-advanced-techn
 - Comparing VAEs, GAN's and Diffusion Models
 - Quiz and Assignment
 
+### Week 9
+
+- Vision Transformer (ViT) Architecture
+  - ViT vs CNN - the Transformer of Visual Models
+  - Drawbacks of ViT: Required huge dataset and very resource intensive training
+- Contrastive Language-Image Pre-Training (CLIP)
+  - Architecture
+  - Usage in Dall-e and Stable Diffusion
+- Dall-e 2 vs GLIDE
+- Quiz and Assignment
+
+
+
+
+
 
 
