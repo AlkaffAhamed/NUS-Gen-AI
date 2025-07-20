@@ -214,6 +214,40 @@ ref: [https://nus.comp.emeritus.org/generative-ai-fundamentals-to-advanced-techn
   - Negative Prompts
 - 3 Assignments
 
+### Week 11
+
+- LLMs and RAG Pipelines
+
+  - Chunking
+    - Split by character count or number of chunks: `CharacterTextSplitter()`
+    - Split by semantic meaning: `RecursiveCharacterTextSplitter()`
+
+  
+    - Vector Store
+  
+      - FAISS
+  
+      - ChromeDB
+  
+  
+  
+    - Providing Context for LLMs
+  
+
+
+- LangChain and LangGraph
+
+  - LangChain: Stateless way of making Multi-Agent Systems
+  - LangGraph: Stateful way of making Multi-Agent Systems
+
+- Managing conversation memory: `MemorySaver()` and `ConversationBufferMemory()`
+
+- Using Ollama for running local LLM models
+
+- Using API Calls for running cloud LLM models
+
+- Quiz and Assignment
+
 
 
 
