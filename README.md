@@ -229,8 +229,6 @@ ref: [https://nus.comp.emeritus.org/generative-ai-fundamentals-to-advanced-techn
   
       - ChromeDB
   
-  
-  
     - Providing Context for LLMs
   
 
@@ -248,7 +246,24 @@ ref: [https://nus.comp.emeritus.org/generative-ai-fundamentals-to-advanced-techn
 
 - Quiz and Assignment
 
+### Week 12
 
+- Types of Multi-Agents
+  - Function-calling Agents
+  - Memory Augmented Agents
+  - Specialist Agents
+- Communication Protocol: Function Calling
+- Validation and Verification
+- Multi-Agent Systems with Reinforced Learning
+- Multi-Agent Integration Strategies
+  - Direct Integration
+  - Proxy Integration
+  - Event-based Integration
+- Task Decomposition and Intend Identification
+- Execution Management
+  - Managing each agent progress
+  - Error Handling
+- 3 Assignments
 
 
 
